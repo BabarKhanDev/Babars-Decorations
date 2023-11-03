@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "facing=north,design=0": { "model": "babarsdecorations:block/spruce_trellis", "uvlock": true },
+    "facing=east,design=0":  { "model": "babarsdecorations:block/spruce_trellis", "y":  90, "uvlock": true },
+    "facing=south,design=0": { "model": "babarsdecorations:block/spruce_trellis", "y": 180, "uvlock": true },
+    "facing=west,design=0":  { "model": "babarsdecorations:block/oak_trellis", "y": 270, "uvlock": true },
+
+    "facing=north,design=1": { "model": "minecraft:block/oak_planks", "uvlock": true },
+    "facing=east,design=1":  { "model": "minecraft:block/oak_planks", "y":  90, "uvlock": true },
+    "facing=south,design=1": { "model": "minecraft:block/oak_planks", "y": 180, "uvlock": true },
+    "facing=west,design=1":  { "model": "minecraft:block/oak_planks", "y": 270, "uvlock": true },
+
+    "facing=north,design=2": { "model": "minecraft:block/spruce_trellis_oak_leaves", "uvlock": true },
+    "facing=east,design=2":  { "model": "minecraft:block/spruce_trellis_oak_leaves", "y":  90, "uvlock": true },
+    "facing=south,design=2": { "model": "minecraft:block/spruce_trellis_oak_leaves", "y": 180, "uvlock": true },
+    "facing=west,design=2":  { "model": "minecraft:block/spruce_trellis_oak_leaves", "y": 270, "uvlock": true }
+  }
+}

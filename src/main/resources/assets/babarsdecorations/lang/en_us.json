@@ -1,0 +1,16 @@
+{
+  "block.babarsdecorations.oak_trellis": "Oak Trellis",
+  "block.babarsdecorations.spruce_trellis": "Spruce Trellis",
+
+  "block.babarsdecorations.trellis.tooltip_shift": "Press shift for info.",
+
+  "block.babarsdecorations.trellis.tooltip_1": "Fill with Moss, Azalea Leaves,",
+  "block.babarsdecorations.trellis.tooltip_2": "Vines, or double tall flowers",
+  "block.babarsdecorations.trellis.tooltip_3": "by right clicking.",
+  "block.babarsdecorations.trellis.tooltip_4": "",
+  "block.babarsdecorations.trellis.tooltip_5": "Strip with an Axe.",
+
+  "itemGroup.babarsdecorations.item_group": "Babars Decorations"
+
+
+}

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "minecraft:block/oak_planks",
-		"1": "babarsdecorations:lilac",
+		"1": "babarsdecorations:peony",
 		"particle": "minecraft:block/oak_planks"
 	},
 	"elements": [

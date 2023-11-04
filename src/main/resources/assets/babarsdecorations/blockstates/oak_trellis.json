@@ -23,6 +23,16 @@
     "facing=north,design=5": { "model": "babarsdecorations:block/oak_trellis_lilac", "uvlock": true },
     "facing=east,design=5":  { "model": "babarsdecorations:block/oak_trellis_lilac", "y":  90, "uvlock": true },
     "facing=south,design=5": { "model": "babarsdecorations:block/oak_trellis_lilac", "y": 180, "uvlock": true },
-    "facing=west,design=5":  { "model": "babarsdecorations:block/oak_trellis_lilac", "y": 270, "uvlock": true }
+    "facing=west,design=5":  { "model": "babarsdecorations:block/oak_trellis_lilac", "y": 270, "uvlock": true },
+
+    "facing=north,design=6": { "model": "babarsdecorations:block/oak_trellis_rose", "uvlock": true },
+    "facing=east,design=6":  { "model": "babarsdecorations:block/oak_trellis_rose", "y":  90, "uvlock": true },
+    "facing=south,design=6": { "model": "babarsdecorations:block/oak_trellis_rose", "y": 180, "uvlock": true },
+    "facing=west,design=6":  { "model": "babarsdecorations:block/oak_trellis_rose", "y": 270, "uvlock": true },
+
+    "facing=north,design=7": { "model": "babarsdecorations:block/oak_trellis_peony", "uvlock": true },
+    "facing=east,design=7":  { "model": "babarsdecorations:block/oak_trellis_peony", "y":  90, "uvlock": true },
+    "facing=south,design=7": { "model": "babarsdecorations:block/oak_trellis_peony", "y": 180, "uvlock": true },
+    "facing=west,design=7":  { "model": "babarsdecorations:block/oak_trellis_peony", "y": 270, "uvlock": true }
   }
 }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "/ /",
+        "/_/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "_": {
+            "item": "minecraft:dark_oak_slab"
+        }
+    },
+    "result": {
+        "item": "babarsdecorations:dark_oak_trellis",
+        "count": 4
+    }
+}

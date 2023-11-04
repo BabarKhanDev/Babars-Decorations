@@ -20,6 +20,11 @@
     "facing=south,design=3": { "model": "babarsdecorations:block/oak_trellis_flowering_azalea_leaves", "y": 180, "uvlock": true },
     "facing=west,design=3":  { "model": "babarsdecorations:block/oak_trellis_flowering_azalea_leaves", "y": 270, "uvlock": true },
 
+    "facing=north,design=4": { "model": "babarsdecorations:block/oak_trellis_vine", "uvlock": true },
+    "facing=east,design=4":  { "model": "babarsdecorations:block/oak_trellis_vine", "y":  90, "uvlock": true },
+    "facing=south,design=4": { "model": "babarsdecorations:block/oak_trellis_vine", "y": 180, "uvlock": true },
+    "facing=west,design=4":  { "model": "babarsdecorations:block/oak_trellis_vine", "y": 270, "uvlock": true },
+
     "facing=north,design=5": { "model": "babarsdecorations:block/oak_trellis_lilac", "uvlock": true },
     "facing=east,design=5":  { "model": "babarsdecorations:block/oak_trellis_lilac", "y":  90, "uvlock": true },
     "facing=south,design=5": { "model": "babarsdecorations:block/oak_trellis_lilac", "y": 180, "uvlock": true },
@@ -33,6 +38,16 @@
     "facing=north,design=7": { "model": "babarsdecorations:block/oak_trellis_peony", "uvlock": true },
     "facing=east,design=7":  { "model": "babarsdecorations:block/oak_trellis_peony", "y":  90, "uvlock": true },
     "facing=south,design=7": { "model": "babarsdecorations:block/oak_trellis_peony", "y": 180, "uvlock": true },
-    "facing=west,design=7":  { "model": "babarsdecorations:block/oak_trellis_peony", "y": 270, "uvlock": true }
+    "facing=west,design=7":  { "model": "babarsdecorations:block/oak_trellis_peony", "y": 270, "uvlock": true },
+
+    "facing=north,design=8": { "model": "babarsdecorations:block/oak_trellis_twisting", "uvlock": true },
+    "facing=east,design=8":  { "model": "babarsdecorations:block/oak_trellis_twisting", "y":  90, "uvlock": true },
+    "facing=south,design=8": { "model": "babarsdecorations:block/oak_trellis_twisting", "y": 180, "uvlock": true },
+    "facing=west,design=8":  { "model": "babarsdecorations:block/oak_trellis_twisting", "y": 270, "uvlock": true },
+
+    "facing=north,design=9": { "model": "babarsdecorations:block/oak_trellis_weeping", "uvlock": true },
+    "facing=east,design=9":  { "model": "babarsdecorations:block/oak_trellis_weeping", "y":  90, "uvlock": true },
+    "facing=south,design=9": { "model": "babarsdecorations:block/oak_trellis_weeping", "y": 180, "uvlock": true },
+    "facing=west,design=9":  { "model": "babarsdecorations:block/oak_trellis_weeping", "y": 270, "uvlock": true }
   }
 }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "/ /",
+        "/_/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "_": {
+            "item": "minecraft:spruce_slab"
+        }
+    },
+    "result": {
+        "item": "babarsdecorations:spruce_trellis",
+        "count": 4
+    }
+}

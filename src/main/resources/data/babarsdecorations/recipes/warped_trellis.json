@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "/ /",
+        "/_/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "_": {
+            "item": "minecraft:warped_slab"
+        }
+    },
+    "result": {
+        "item": "babarsdecorations:warped_trellis",
+        "count": 4
+    }
+}

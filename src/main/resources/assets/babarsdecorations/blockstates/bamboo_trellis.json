@@ -1,0 +1,53 @@
+{
+  "variants": {
+    "facing=north,design=0": { "model": "babarsdecorations:block/bamboo_trellis", "uvlock": true },
+    "facing=east,design=0":  { "model": "babarsdecorations:block/bamboo_trellis", "y":  90, "uvlock": true },
+    "facing=south,design=0": { "model": "babarsdecorations:block/bamboo_trellis", "y": 180, "uvlock": true },
+    "facing=west,design=0":  { "model": "babarsdecorations:block/bamboo_trellis", "y": 270, "uvlock": true },
+
+    "facing=north,design=1": { "model": "babarsdecorations:block/bamboo_trellis_moss", "uvlock": true },
+    "facing=east,design=1":  { "model": "babarsdecorations:block/bamboo_trellis_moss", "y":  90, "uvlock": true },
+    "facing=south,design=1": { "model": "babarsdecorations:block/bamboo_trellis_moss", "y": 180, "uvlock": true },
+    "facing=west,design=1":  { "model": "babarsdecorations:block/bamboo_trellis_moss", "y": 270, "uvlock": true },
+
+    "facing=north,design=2": { "model": "babarsdecorations:block/bamboo_trellis_azalea_leaves", "uvlock": true },
+    "facing=east,design=2":  { "model": "babarsdecorations:block/bamboo_trellis_azalea_leaves", "y":  90, "uvlock": true },
+    "facing=south,design=2": { "model": "babarsdecorations:block/bamboo_trellis_azalea_leaves", "y": 180, "uvlock": true },
+    "facing=west,design=2":  { "model": "babarsdecorations:block/bamboo_trellis_azalea_leaves", "y": 270, "uvlock": true },
+
+    "facing=north,design=3": { "model": "babarsdecorations:block/bamboo_trellis_flowering_azalea_leaves", "uvlock": true },
+    "facing=east,design=3":  { "model": "babarsdecorations:block/bamboo_trellis_flowering_azalea_leaves", "y":  90, "uvlock": true },
+    "facing=south,design=3": { "model": "babarsdecorations:block/bamboo_trellis_flowering_azalea_leaves", "y": 180, "uvlock": true },
+    "facing=west,design=3":  { "model": "babarsdecorations:block/bamboo_trellis_flowering_azalea_leaves", "y": 270, "uvlock": true },
+
+    "facing=north,design=4": { "model": "babarsdecorations:block/bamboo_trellis_vine", "uvlock": true },
+    "facing=east,design=4":  { "model": "babarsdecorations:block/bamboo_trellis_vine", "y":  90, "uvlock": true },
+    "facing=south,design=4": { "model": "babarsdecorations:block/bamboo_trellis_vine", "y": 180, "uvlock": true },
+    "facing=west,design=4":  { "model": "babarsdecorations:block/bamboo_trellis_vine", "y": 270, "uvlock": true },
+
+    "facing=north,design=5": { "model": "babarsdecorations:block/bamboo_trellis_lilac", "uvlock": true },
+    "facing=east,design=5":  { "model": "babarsdecorations:block/bamboo_trellis_lilac", "y":  90, "uvlock": true },
+    "facing=south,design=5": { "model": "babarsdecorations:block/bamboo_trellis_lilac", "y": 180, "uvlock": true },
+    "facing=west,design=5":  { "model": "babarsdecorations:block/bamboo_trellis_lilac", "y": 270, "uvlock": true },
+
+    "facing=north,design=6": { "model": "babarsdecorations:block/bamboo_trellis_rose", "uvlock": true },
+    "facing=east,design=6":  { "model": "babarsdecorations:block/bamboo_trellis_rose", "y":  90, "uvlock": true },
+    "facing=south,design=6": { "model": "babarsdecorations:block/bamboo_trellis_rose", "y": 180, "uvlock": true },
+    "facing=west,design=6":  { "model": "babarsdecorations:block/bamboo_trellis_rose", "y": 270, "uvlock": true },
+
+    "facing=north,design=7": { "model": "babarsdecorations:block/bamboo_trellis_peony", "uvlock": true },
+    "facing=east,design=7":  { "model": "babarsdecorations:block/bamboo_trellis_peony", "y":  90, "uvlock": true },
+    "facing=south,design=7": { "model": "babarsdecorations:block/bamboo_trellis_peony", "y": 180, "uvlock": true },
+    "facing=west,design=7":  { "model": "babarsdecorations:block/bamboo_trellis_peony", "y": 270, "uvlock": true },
+
+    "facing=north,design=8": { "model": "babarsdecorations:block/bamboo_trellis_twisting", "uvlock": true },
+    "facing=east,design=8":  { "model": "babarsdecorations:block/bamboo_trellis_twisting", "y":  90, "uvlock": true },
+    "facing=south,design=8": { "model": "babarsdecorations:block/bamboo_trellis_twisting", "y": 180, "uvlock": true },
+    "facing=west,design=8":  { "model": "babarsdecorations:block/bamboo_trellis_twisting", "y": 270, "uvlock": true },
+
+    "facing=north,design=9": { "model": "babarsdecorations:block/bamboo_trellis_weeping", "uvlock": true },
+    "facing=east,design=9":  { "model": "babarsdecorations:block/bamboo_trellis_weeping", "y":  90, "uvlock": true },
+    "facing=south,design=9": { "model": "babarsdecorations:block/bamboo_trellis_weeping", "y": 180, "uvlock": true },
+    "facing=west,design=9":  { "model": "babarsdecorations:block/bamboo_trellis_weeping", "y": 270, "uvlock": true }
+  }
+}

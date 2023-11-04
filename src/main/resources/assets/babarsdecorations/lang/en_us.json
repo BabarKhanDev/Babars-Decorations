@@ -1,6 +1,15 @@
 {
   "block.babarsdecorations.oak_trellis": "Oak Trellis",
   "block.babarsdecorations.spruce_trellis": "Spruce Trellis",
+  "block.babarsdecorations.birch_trellis": "Birch Trellis",
+  "block.babarsdecorations.jungle_trellis": "Jungle Trellis",
+  "block.babarsdecorations.dark_oak_trellis": "Dark Oak Trellis",
+  "block.babarsdecorations.acacia_trellis": "Acacia Trellis",
+  "block.babarsdecorations.crimson_trellis": "Crimson Trellis",
+  "block.babarsdecorations.warped_trellis": "Warped Trellis",
+  "block.babarsdecorations.mangrove_trellis": "Mangrove Trellis",
+  "block.babarsdecorations.cherry_trellis": "Cherry Trellis",
+  "block.babarsdecorations.bamboo_trellis": "Bamboo Trellis",
 
   "block.babarsdecorations.trellis.tooltip_shift": "Press shift for info.",
 
